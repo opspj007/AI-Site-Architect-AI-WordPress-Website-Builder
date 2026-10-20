@@ -489,17 +489,7 @@ AI Site Architect can be used for:
 
 ---
 
-## 🏢 Developed By
 
-### Mahashankh Design & Technology
-
-**For New Generation**
-
-Mahashankh Design & Technology develops software products across:
-
-**Artificial Intelligence • WordPress • Fashion Technology • Digital Design • Automation • Web Platforms**
-
----
 
 ## 👨‍💻 Developer
 
