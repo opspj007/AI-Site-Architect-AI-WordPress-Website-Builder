@@ -1,0 +1,6 @@
+{
+  "name": "AI Site Architect - AI WordPress Website Builder",
+  "description": "Convert natural language requirements into complete, production-ready WordPress site architectures, Gutenberg block pages, CPTs, menus, and exportable WXR XML/PHP plugins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
